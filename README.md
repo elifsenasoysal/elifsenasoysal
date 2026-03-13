@@ -54,17 +54,10 @@ _(Currently working on exciting things, stay tuned!)_
 - 🧠 I love learning and sharing knowledge
 - 🎨 I enjoy building aesthetic + functional projects
 - 🌈 Always chasing soft pastel vibes & good UI
-- 🎾 I like playing tennis 
+- 🎾 I like playing tennis and journaling
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elifsenasoysal&show_icons=true&theme=tokyonight&hide=prs"/>
-</p>
-
----
 
 ### ✨ Motto of the Day
 > _"Keep it simple, keep it soft, keep it smart."_ 💕
