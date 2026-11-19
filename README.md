@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 🌸 Hi there, I'm Elif Sena Soysal! 👋
 
-🎓 I'm a 3rd-year Computer Engineering student at **Sakarya University** in Turkey.  
+🎓 I'm a 4rd-year Computer Engineering student at **Sakarya University** in Turkey.  
 💡 I'm passionate about **Artificial Intelligence**, **Data Science**, and building meaningful things with **Python**, **C++**, and **Web Technologies**.
 
 ---
@@ -29,13 +29,6 @@ Here are some ideas to get you started:
 - 🐍 Python Programming
 - 🌐 Web Development (Frontend & Backend)
 - 💻 C++ & Algorithmic Thinking
-
----
-
-### 📌 Featured Projects
-
-Coming soon... 🚀  
-_(Currently working on exciting things, stay tuned!)_
 
 ---
 
@@ -53,7 +46,7 @@ _(Currently working on exciting things, stay tuned!)_
 - ☕ I'm a night owl who codes best with tea or coffee
 - 🧠 I love learning and sharing knowledge
 - 🎨 I enjoy building aesthetic + functional projects
-- 🌈 Always chasing soft pastel vibes & good UI
+- 🌈 Always chasing good UI 
 - 🎾 I like playing tennis and journaling
 
 ---
